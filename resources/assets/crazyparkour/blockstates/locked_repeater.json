@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "repeater_1tick" },
+    "facing=west": { "model": "repeater_1tick", "y": 90 },
+    "facing=north": { "model": "repeater_1tick", "y": 180 },
+    "facing=east": { "model": "repeater_1tick", "y": 270 }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.GodTheHands.crazyparkour.mixins",
+  "verbose": true,
+  "refmap": "mixins.crazyparkour.refmap.json",
+  "minVersion": "0.7.10",
+  "mixins": [
+    "IngameHUDMixin",
+    "TimingMixin",
+    "ShowPBMixin"
+  ]
+}

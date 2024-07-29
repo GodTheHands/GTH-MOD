@@ -1,0 +1,30 @@
+{
+  "checkpoint.test": {
+    "category": "player",
+    "sounds": [
+      "checkpoint"
+    ]
+  },
+
+  "teleporter.test": {
+    "category": "player",
+    "sounds": [
+      "teleporter"
+    ]
+  },
+
+  "parkourcollector.test": {
+    "category": "player",
+    "sounds": [
+      "parkourcollector"
+    ]
+  },
+
+  "setteleporter.test": {
+    "category": "player",
+    "sounds": [
+      "setteleporter"
+    ]
+  }
+}
+

@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=south,in_wall=false": { "model": "oak_fence_gate_closed" },
+    "facing=west,in_wall=false":  { "model": "oak_fence_gate_closed", "y": 90, "uvlock": true },
+    "facing=north,in_wall=false": { "model": "oak_fence_gate_closed", "y": 180, "uvlock": true },
+    "facing=east,in_wall=false":  { "model": "oak_fence_gate_closed", "y": 270, "uvlock": true },
+    "facing=south,in_wall=true": { "model": "oak_wall_gate_closed" },
+    "facing=west,in_wall=true":  { "model": "oak_wall_gate_closed", "y": 90, "uvlock": true },
+    "facing=north,in_wall=true": { "model": "oak_wall_gate_closed", "y": 180, "uvlock": true },
+    "facing=east,in_wall=true":  { "model": "oak_wall_gate_closed", "y": 270, "uvlock": true }
+  }
+}

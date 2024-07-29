@@ -1,0 +1,11 @@
+[
+{
+  "modid": "crazyparkour",
+  "name": "GTH Mod",
+  "description": "Parkour mod designed by GodTheHands.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["GodTheHands"],
+  "credits": "Made by GodTheHands and people helped me ever."
+}
+]

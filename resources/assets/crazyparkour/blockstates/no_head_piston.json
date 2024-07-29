@@ -1,0 +1,10 @@
+{
+"variants": {
+"facing=down": { "model": "piston_extended_normal", "x": 90 },
+"facing=up": { "model": "piston_extended_normal", "x": 270 },
+"facing=north": { "model": "piston_extended_normal" },
+"facing=south": { "model": "piston_extended_normal", "y": 180 },
+"facing=west": { "model": "piston_extended_normal", "y": 270 },
+"facing=east": { "model": "piston_extended_normal", "y": 90 }
+  }
+}
